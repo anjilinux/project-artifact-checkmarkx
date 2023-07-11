@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /var/lib/jenkins/workspace/nsa-aip
+sudo ./build.sh  > /var/lib/jenkins/workspace/nsa-aip/results.txt
